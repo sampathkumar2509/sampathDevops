@@ -1,4 +1,5 @@
 #!/bin/bash
 
-echo " hey whats up"
+echo " hello i'm tasting a file for git logs"
+
 
