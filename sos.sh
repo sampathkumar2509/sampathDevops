@@ -13,3 +13,6 @@ echo "i'm ready to play a match"
 echo "haha"
 sum=$(( a +b ))
 
+
+echo " this is test case for code commit in git"
+
